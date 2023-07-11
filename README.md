@@ -1,5 +1,3 @@
-![bannermongo](./assets/mongobanner.png)
-
 # MongoDB - Resumen
 
 Este repositorio contiene información y recursos relacionados con MongoDB, una base de datos de documentos no relacional altamente flexible y escalable. A continuación, encontrarás un resumen de los conceptos clave y pasos básicos para comenzar con MongoDB.
